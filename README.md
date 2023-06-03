@@ -10,7 +10,7 @@ I’m a data professional with a business degree and a passion for finding insig
 
 🚀 I’m looking for opportunities to apply my skills and knowledge in data science and analytics projects that can make a positive impact on society.
 
-📫 If you want to know more about me or my work, feel free to check out my resume, LinkedIn profile, or GitHub repo. You can also contact me via email or LinkedIn.
+📫 If you want to know more about me or my work, feel free to check out my resume, LinkedIn profile, or GitHub repo. You can also contact me via [Email](ritikgupta571@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mrritikgupta/).
 
 😊 Thanks for stopping by!
 <!--
